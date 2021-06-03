@@ -5,7 +5,7 @@ Hello World👋
 [instagram]: https://www.instagram.com/saurav.k_/
 [twitter]: https://twitter.com/rjsaurav13
 
-
+![](https://visitor-badge.laobi.icu/badge?page_id=rjsaurav13.rjsaurav13)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rjsaurav13&count_private=true&theme=tokyonight&showicons=true)]()
 
 
