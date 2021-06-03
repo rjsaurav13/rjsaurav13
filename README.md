@@ -1,14 +1,9 @@
 Hello World👋
 
 
-[linkedin]: https://www.linkedin.com/in/sauravkumar1203/]()
-[instagram]: https://www.instagram.com/saurav.k_/
-[twitter]: https://twitter.com/rjsaurav13
-
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rjsaurav13)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sauravkumar1203/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.instagram.com/saurav.k_/)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rjsaurav13.rjsaurav13)
 
