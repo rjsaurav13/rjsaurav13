@@ -6,6 +6,10 @@ Hello World👋
 [twitter]: https://twitter.com/rjsaurav13
 
 
+1
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rjsaurav13&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsaurav13&langs_count=5&theme=tokyonight)]()
 
 <!--
 **rjsaurav13/rjsaurav13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
