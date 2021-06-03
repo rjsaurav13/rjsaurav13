@@ -6,6 +6,9 @@ Hello World👋
 [twitter]: https://twitter.com/rjsaurav13
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rjsaurav13.rjsaurav13)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rjsaurav13&count_private=true&theme=tokyonight&showicons=true)]()
 
 
