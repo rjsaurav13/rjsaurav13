@@ -7,6 +7,7 @@ Hello World👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rjsaurav13.rjsaurav13)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsaurav13&langs_count=5&theme=tokyonight)]()
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rjsaurav13&count_private=true&theme=tokyonight&showicons=true)]()
