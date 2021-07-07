@@ -12,6 +12,10 @@ Hello World👋
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rjsaurav13&count_private=true&theme=tokyonight&showicons=true)]()
 
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjsaurav13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <!--
 
 **rjsaurav13/rjsaurav13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
