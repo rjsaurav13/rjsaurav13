@@ -1,8 +1,7 @@
 
 ### Hi there 👋<h2> I'm Saurav</h2>
 
-<img align='right' src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif
-" width="230">
+<img align='right' src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
