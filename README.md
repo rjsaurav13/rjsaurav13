@@ -35,7 +35,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; ML| Cloud Tech 
+- 🔧 &nbsp; ML | Cloud Tech 
 
 <hr>
 
