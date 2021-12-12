@@ -1,34 +1,98 @@
-Hello  World👋
- 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rjsaurav13)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sauravkumar1203/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/saurav.k_/)
+### Hi there 👋<h2> I'm Saurav</h2>
+
+<img align='right' src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif
+" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Exploring new technologies.
+
+- 🎓 &nbsp; Studying Information Science and Engineering at NMAM INSTITUTE OF TECHNOLOGY
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; C++ | Java | Python | C | SQL | JavaFX
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Jquery
+
+<!--
+
+- 🛢 &nbsp; SQL 
+
+- 🔧 &nbsp; Git 
+
+-->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; ML| Cloud Tech 
+
+<hr>
+
+
+
+<br/><br/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rjsaurav13.rjsaurav13)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsaurav13&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsaurav13&show_icons=true&theme=tokyonight)
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rjsaurav13&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjsaurav13&theme=tokyonight)]()
 
 
-[![](https://activity-graph.herokuapp.com/graph?username=rjsaurav13&theme=dracula)](https://github.com/rjsaurav13/github-readme-activity-graph)
+<br/>
+
+<br/>
 
 
-<!--
+<br><br>
 
-     **rjsaurav13/rjsaurav13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sauravkumar1203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saurav%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://www.instagram.com/saurav.k_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saurav.k_-black?style=flat-square&logo=instagram"></a>
+
+<a href="rjsaurav13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+<hr>
+
