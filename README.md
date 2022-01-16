@@ -45,10 +45,6 @@
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rjsaurav13.rjsaurav13)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 <img align='right' src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="230">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsaurav13&show_icons=true&theme=tokyonight)
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rjsaurav13&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjsaurav13&theme=tokyonight)]()
