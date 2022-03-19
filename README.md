@@ -70,8 +70,9 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sauravkumar1203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saurav-Kumar" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/saurav.k_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurav.k_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sauravkumar1203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saurav%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://www.instagram.com/saurav.k_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saurav.k_-black?style=flat-square&logo=instagram"></a>
 
 <a href="rjsaurav13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rjsaurav13@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
