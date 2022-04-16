@@ -46,7 +46,7 @@
 <img align='right' src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="230">
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsaurav13&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsaurav13&langs_count=6&theme=tokyonight)]()
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rjsaurav13&count_private=true&theme=tokyonight&showicons=true)]()
