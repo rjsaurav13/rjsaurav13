@@ -11,7 +11,7 @@
 
 - 🎓 &nbsp; Studying Information Science and Engineering at NMAM INSTITUTE OF TECHNOLOGY
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing App Development as hobbies/side hustles.
 
 
 
