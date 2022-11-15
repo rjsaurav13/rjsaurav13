@@ -46,10 +46,9 @@
 <img align='right' src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="240">
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsaurav13&langs_count=6&theme=tokyonight)]()
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjsaurav13&theme=tokyonight" alt="rjsaurav13"/>
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rjsaurav13&count_private=true&theme=tokyonight&showicons=true)]()
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rjsaurav13&theme=tokyonight" alt="rjsaurav13" /></p>
 
 
 
