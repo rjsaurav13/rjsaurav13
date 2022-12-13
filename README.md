@@ -46,9 +46,10 @@
 <img align='right' src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="240">
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjsaurav13&theme=tokyonight" alt="rjsaurav13"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rjsaurav13&theme=tokyonight" alt="rjsaurav13" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjsaurav13&theme=tokyonight" alt="rjsaurav13" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rjsaurav13&&theme=tokyonight" alt="rjsaurav13" /></p>
 
 
 
