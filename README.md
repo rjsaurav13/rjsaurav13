@@ -9,9 +9,9 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 
-- 🎓 &nbsp; Studying Information Science and Engineering at NMAM INSTITUTE OF TECHNOLOGY
+- 🎓 &nbsp;  Information Science and Engineering at NMAM INSTITUTE OF TECHNOLOGY
 
-- ✍️ &nbsp; Pursuing App Development as hobbies/side hustles.
+
 
 
 
